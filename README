@@ -1,0 +1,6 @@
+Time To Fix
+-----------
+
+This plugin allow you capture your team productivity based on JUnit report. 
+The CI server produces dynamic charts where you read the overall team effort to fix bug, implement, new feature over the project life time.
+
